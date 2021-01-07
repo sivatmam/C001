@@ -23,6 +23,7 @@ int change(int people, int total){
   if (people >= 0){
     printf("%d People get on -> Bus has %d people.\n",people, total);   
   } else {
+    people *= -1;
     printf("%d People get off -> Bus has %d people.\n",people, total);   
   }
   return total;
