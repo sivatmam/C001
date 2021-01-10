@@ -1,0 +1,17 @@
+
+A variable is a named item representing a memory location used to hold a value.
+
+An assignment stores a value into the memory location identified by a variable.
+
+The assignment operator "=" is NOT equals as in algebra.  Only one variable is allowed to the
+left of the assignment operator.
+
+A variable declaration specifies the variable name and type.
+
+An assignment statement puts the value of the expression on the right of the assignment operator
+into the variable on the left.
+
+An expression may be a number, another variable or a simple calculation.
+
+An simple number, like 80, is known as an integer literal.
+
